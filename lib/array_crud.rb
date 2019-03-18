@@ -1,3 +1,6 @@
+cities = ["London", "Toronto", "New York", "LA"]
+
+
 def create_an_empty_array
   []
 end
